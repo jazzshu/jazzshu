@@ -55,11 +55,6 @@ Raised in Bologna, Italy 🇮🇹 · Based in Basel 🇨🇭 · Usually planning
 - **Google Cloud Digital Leader** — expired
 - **AWS Certified Cloud Practitioner** — expired
 
-## From my repositories
-
-### [Reverse Proxy](https://github.com/jazzshu/reverse-proxy)
-
-A Node.js / Express reverse proxy with a React demo for exploring load balancing, response caching, and server usage. An earlier project connecting application behavior with the infrastructure behind it.
 
 ---
 
