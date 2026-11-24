@@ -17,7 +17,7 @@ Building backend services. Running them in production. Understanding what happen
 
 ## A little about me
 
-I'm a software engineer at **Swiss AviationSoftware**, working across backend development and cloud infrastructure in aviation. My core experience is with **Java, Spring Boot, and Kubernetes**, with a particular interest in messaging, observability, and reliable distributed systems.
+I'm a software engineer, working across backend development and cloud infrastructure in aviation. My core experience is with **Java, Spring Boot, and Kubernetes**, with a particular interest in messaging, observability, and reliable distributed systems.
 
 I'm now expanding into **AI infrastructure and MLOps**, learning Python and Go along the way. I like learning by building: connecting the application code to the infrastructure, then figuring out how to deploy, observe, and improve the whole system.
 
