@@ -17,7 +17,7 @@ Building backend services. Running them in production. Understanding what happen
 
 ## A little about me
 
-I'm a software engineer, working across backend development and cloud infrastructure in aviation. My core experience is with **Java, Spring Boot, and Kubernetes**, with a particular interest in messaging, observability, and reliable distributed systems.
+I'm a software engineer at **Swiss AviationSoftware**, working across backend development and cloud infrastructure in aviation. My core experience is with **Java, Spring Boot, and Kubernetes**, with a particular interest in messaging, observability, and reliable distributed systems.
 
 I'm now expanding into **AI infrastructure and MLOps**, learning Python and Go along the way. I like learning by building: connecting the application code to the infrastructure, then figuring out how to deploy, observe, and improve the whole system.
 
@@ -40,13 +40,20 @@ Raised in Bologna, Italy 🇮🇹 · Based in Basel 🇨🇭 · Usually planning
 - **Local inference** — running open models on Apple Silicon with LM Studio and Ollama, and exploring MLX.
 - **Model Context Protocol** — connecting models to tools and working with explicitly scoped file access.
 
-## Kubernetes certifications
+## Certifications
+
+### Kubernetes
 
 ![CKA](https://img.shields.io/badge/CKA-Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![CKAD](https://img.shields.io/badge/CKAD-Application_Developer-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![CKS](https://img.shields.io/badge/CKS-Security_Specialist-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![KCNA](https://img.shields.io/badge/KCNA-Cloud_Native_Associate-0F766E?style=flat-square)
 ![KCSA](https://img.shields.io/badge/KCSA-Security_Associate-0F766E?style=flat-square)
+
+### Previously earned cloud certifications
+
+- **Google Cloud Digital Leader** — expired
+- **AWS Certified Cloud Practitioner** — expired
 
 ## From my repositories
 
